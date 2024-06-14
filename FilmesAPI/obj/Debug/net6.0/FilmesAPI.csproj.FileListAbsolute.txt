@@ -1,0 +1,105 @@
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FluentResults.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guilherme.dias\Documents\GitHub\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.exe
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.deps.json
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FluentResults.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.FilmesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmesAPI.props
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmesAPI.props
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FilmesAPI.props
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\refint\FilmesAPI.dll
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Guilherme Del Rio\Downloads\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
